@@ -7,8 +7,8 @@ import Flow from './flow'
 function App() {
   return (
     <div className="App">
-     <V2Example></V2Example>
-     {/* <Flow></Flow> */}
+     {/* <V2Example></V2Example> */}
+     <Flow></Flow>
     </div>
   );
 }
