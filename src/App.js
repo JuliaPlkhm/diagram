@@ -1,14 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
-import {V2Example} from './Xarrow'
-import Flow from './flow'
+import {Diagram} from './Diagram'
 
 function App() {
   return (
     <div className="App">
-     {/* <V2Example></V2Example> */}
-     <Flow></Flow>
+     <Diagram></Diagram>
     </div>
   );
 }
