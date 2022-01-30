@@ -23,8 +23,8 @@
       "lifecycleStepOptions": "none",
       "isFirstStep": false,
       "lifecycleLevelId": 1,
-      "lifecycleStepXPosition": 243,
-      "lifecycleStepYPosition": 500.4963
+      "lifecycleStepXPosition": 871,
+      "lifecycleStepYPosition": 292.4963
     },
     {
       "lifecycleStepId": 10019,
@@ -36,8 +36,8 @@
       "lifecycleStepOptions": "none",
       "isFirstStep": false,
       "lifecycleLevelId": 1009,
-      "lifecycleStepXPosition": 597,
-      "lifecycleStepYPosition": 147.49597
+      "lifecycleStepXPosition": 611,
+      "lifecycleStepYPosition": 105.49597
     }
   ],
   "links": [
