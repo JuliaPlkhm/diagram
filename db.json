@@ -10,8 +10,8 @@
       "lifecycleStepOptions": "none",
       "isFirstStep": true,
       "lifecycleLevelId": 2,
-      "lifecycleStepXPosition": 10.5,
-      "lifecycleStepYPosition": 120.4964
+      "lifecycleStepXPosition": 17,
+      "lifecycleStepYPosition": 148
     },
     {
       "lifecycleStepId": 10009,
@@ -23,8 +23,8 @@
       "lifecycleStepOptions": "none",
       "isFirstStep": false,
       "lifecycleLevelId": 1,
-      "lifecycleStepXPosition": 871,
-      "lifecycleStepYPosition": 292.4963
+      "lifecycleStepXPosition": 377,
+      "lifecycleStepYPosition": 236.49630000000002
     },
     {
       "lifecycleStepId": 10019,
@@ -36,8 +36,8 @@
       "lifecycleStepOptions": "none",
       "isFirstStep": false,
       "lifecycleLevelId": 1009,
-      "lifecycleStepXPosition": 611,
-      "lifecycleStepYPosition": 105.49597
+      "lifecycleStepXPosition": 644,
+      "lifecycleStepYPosition": 81.49597
     }
   ],
   "links": [

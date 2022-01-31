@@ -1,9 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
-import DnDFlow from './ReactFlow/ReactFlow'
-
-import {Diagram} from './Diagram'
-import Sidebar from './Sidebar'
+import './dnd.css';
+import {Diagram} from './Diagram/Diagram'
+import Sidebar from './Diagram/Sidebar'
 
 
 function App() {
